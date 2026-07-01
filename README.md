@@ -1,6 +1,8 @@
 # gev.fit
 Maximum-likelihood Fitting of the generalized extreme value (GEV) Distribution Use gev.fit (ismev) With (In) R Software
 
+https://www.youtube.com/watch?v=L5_RfA1vHJA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
